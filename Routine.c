@@ -11,7 +11,7 @@ int main()
     {
     	
     case 1:
-        printf("\n Routine for Monday: \n Phy-DS \n CSc-PB \n Chem-MRB \n Phy-RH \n Math-AS \n ECML \n Eng-BPP \n Chem-PRP");
+        printf("\n Routine for Sunday: \n Phy-DS \n CSc-PB \n Chem-MRB \n Phy-RH \n Math-AS \n ECML \n Eng-BPP \n Chem-PRP");
         break;
         
     case 2:
